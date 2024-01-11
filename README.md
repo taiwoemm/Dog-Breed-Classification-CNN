@@ -1,7 +1,7 @@
 # Dog-Breed-Classification-CNN
 The project implement an algorithm to classify dog breed with CNN (from scratch) and pretrained Inception_v3 model (transfer learning).
 
-The notebook is divided into separate steps and the links can be used to navigate the notebook.
+The notebook is divided into separate steps.
 
 * Step 0: Import Datasets
 * Step 1: Detect Humans
